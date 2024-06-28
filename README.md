@@ -1,2 +1,2 @@
 # test-repo
- another web site
+ An attempt to launch a test site.
