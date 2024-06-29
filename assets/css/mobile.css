@@ -1,9 +1,10 @@
+
+
 #navbar .logo {
-    float: none;
-    text-align:center;
+         float: none;
+         text-align: center;
   }
-  
-  #navbar ul, #navbar ul li {
+#navbar ul, #navbar ul li {
     float: none;
   }
   
@@ -41,5 +42,8 @@
     float: none;
     width: 100%;
   }
-  
+  .text {
+    font-size: 18px;
+
+  }
  
